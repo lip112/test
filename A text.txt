@@ -1,2 +1,5 @@
-push
-B
+cost1
+cost2
+cost3
+cost4
+cost5
