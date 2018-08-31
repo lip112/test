@@ -4,3 +4,5 @@ cost8
 cost3
 cost4
 cost5
+cost6
+cost7
