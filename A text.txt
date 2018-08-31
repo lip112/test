@@ -1,5 +1,6 @@
 cost1
 cost2
+cost8
 cost3
 cost4
 cost5
